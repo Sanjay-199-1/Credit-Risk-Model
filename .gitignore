@@ -1,0 +1,9 @@
+loan.csv
+credit_risk_outputs/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.env
